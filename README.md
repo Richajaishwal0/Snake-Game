@@ -160,7 +160,7 @@ if (conn) {
 ## **Contributors**
  - [Shudarsan Regmi](https://github.com/ShudarsanRegmi) 
  - [Shwetha Sivakumar](https://github.com/shwethasivakumar06)
- - [Sima Pandit]()
+ - [Sima Pandit](https://github.com/S-i-m-a)
 ---
 
 ## **Contact**
